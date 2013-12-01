@@ -1,5 +1,5 @@
 # shrtnr
-## The world's <s>best</s> worst URL shortener
+## The world's ~~best~~ worst URL shortener
 
 Yup, it's a URL shortener. I hacked this together just as a learning exercise and to see how quickly I could make this. About an hour or two, and that's without ever really using Flask or Peewee before.
 
